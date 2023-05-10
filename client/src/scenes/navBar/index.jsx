@@ -56,7 +56,7 @@ const Navbar = () => {
             },
           }}
         >
-          Sociopedia
+          Hengyi Zhao
         </Typography>
         {isNonMobileScreens && (
           <FlexBetween
